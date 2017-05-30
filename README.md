@@ -1,4 +1,3 @@
-![Chassis Logo](https://github.kdc.capitalone.com/pages/chassis/chassis-logos/svg/chassis-labs/labs-300px.svg)
 
 # Lab 9 - Writing Cucumber JVM Tests
 This lab covers creating a basic test using cucumber-jvm for testing REST APIs.
